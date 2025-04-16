@@ -1,0 +1,10 @@
+# Files
+*.tar
+*.tar.*
+*.zip
+.*
+**/.*
+
+# Exceptions
+!.gitignore
+!.github
