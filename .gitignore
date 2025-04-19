@@ -1,6 +1,7 @@
 # Directories
 temp/
 tmp/
+samples/
 
 # Files
 *.tar
@@ -8,6 +9,7 @@ tmp/
 *.zip
 .*
 **/.*
+export.xml
 
 # Exceptions
 !.gitignore
